@@ -1,4 +1,4 @@
-#!//usr/bin/python
+#!/usr/bin/python
 search = 'AudaUpdate ended NORMAL'
 MsgOk='UPDATE REALIZED'
 MsgNok='NOT_UPDATED'
